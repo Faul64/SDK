@@ -12,4 +12,4 @@ A video of the work is available on [YouTube](https://youtu.)
 The Build for Win10 is available at [Link](https://youtu.)
 
 
-The Аuthors: Гожинов Cерге, Шелепьев Дмитрий, Сафронов Кирилл
+The Аuthors: Гожинов Cерге, Shelepev Dmitry, Сафронов Кирилл
